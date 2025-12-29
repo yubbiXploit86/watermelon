@@ -1,0 +1,7 @@
+{
+  "sql_errors": [
+    "you have an error in your sql syntax",
+    "warning: mysql",
+    "unclosed quotation mark"
+  ]
+}
