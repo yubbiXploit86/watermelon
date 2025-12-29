@@ -11,7 +11,7 @@ Author: Tuan Yubbii
 - Termux & Linux support
 
 ## Instalasi
-git clone https://github.com/yubbiXploit86/watermelon
+git clone https://github.com/yubbiXploit86/watermelon-security-analyzer
 cd watermelon
 pip install -r requirements.txt
 
